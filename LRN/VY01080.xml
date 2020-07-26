@@ -1,0 +1,113 @@
+<quiz title="Deðerlendirme Sorularý">
+
+	<soru>
+		<sorumetni>Bilgisayar donanýmý ile kullanýcý ve programlar arasýnda etkileþimi saðlayan, kullanýcýya birtakým hazýr imkanlar sunan, donaným olsun yazýlým olsun sistem kaynaklarýný paylaþtýran ve yöneten yazýlým aðýrlýklý sisteme ne ad verilir. </sorumetni>
+		<secenekler type="radio">
+			<secenek>Derleyici</secenek>
+			<secenek>Editör</secenek>
+			<secenek>Uygulama programlarý</secenek>
+			<secenek dogru="true">Ýþletim Sistemi </secenek>
+			<secenek>Hiçbiri</secenek>			
+		</secenekler>
+	</soru>
+
+	<soru>
+		<sorumetni>Bellekte tutulan verilerin bellekte tutulma þekli ve düzeni ne olarak adlandýrýlýr? </sorumetni>
+		<secenekler type="radio">
+			<secenek>Deðiþken</secenek>
+			<secenek>Operatör</secenek>
+			<secenek dogru="true">Veri Yapýsý</secenek>
+			<secenek>Fonksiyon</secenek>
+			<secenek>Parametre</secenek>			
+		</secenekler>
+	</soru>
+ 
+	<soru>
+		<sorumetni>Verilerin birbirleriyle olan iliþkisel veya sýrasal durumunu göstermeye ne ad verilir?</sorumetni>
+		<secenekler type="radio">
+			<secenek>Veri yapýsý</secenek>
+			<secenek>Operatör</secenek>
+			<secenek dogru="true">Veri modeli</secenek>
+			<secenek>Dizi</secenek>
+			<secenek>Hepsi</secenek>			
+		</secenekler>
+	</soru>
+	
+	<soru>
+		<sorumetni>Belirli bir iþi veya görevi var olan veya sonradan tanýmlanan veri modeline dayandýrýlarak adým adým ortaya koymak ne olarak adlandýrýlýr?</sorumetni>
+		<secenekler type="radio">
+			<secenek>Program</secenek>
+			<secenek dogru="true">Algoritma</secenek>
+			<secenek>Yazýlým</secenek>
+			<secenek>Ýþletim sistemi</secenek>
+			<secenek>Hiçbiri</secenek>
+		</secenekler>
+	</soru>
+
+	<soru>
+		<sorumetni>Bir bilgisayar veya sayýsal sistem içerisinde aritmetik, mantýk ve karþýlaþtýrma gibi iþlemlerin yapýldýðý ve bu iþlemlerin anlamlý sýralarda art arda kullanýlmasýyla daha karmaþýk iþlemlerin kotarýldýðý programlanabilen sayýsal bir sisteme ne ad verilir?</sorumetni>
+		<secenekler type="radio">
+			<secenek>Saklama birimi</secenek>
+			<secenek>Hesaplayýcý</secenek>
+			<secenek dogru="true">Ýþlemci</secenek>
+			<secenek>Saklayýcý</secenek>
+			<secenek>Tam toplayýcý</secenek>
+		</secenekler>
+	</soru>
+ 
+	<soru>
+		<sorumetni>Bilgilerin belirli bir disiplin altýnda saklanmasý ve gerektiðinde hýzlý bir þekilde aranýp bulunmasý/sorgulanmasý için geliþtirilmiþ bir saklama/sorgulama sistemi ne olarak isimlendirilir?</sorumetni>
+		<secenekler type="radio">
+			<secenek>Dosya</secenek>
+			<secenek>Disk</secenek>
+			<secenek dogru="true">Veritabaný</secenek>
+			<secenek>Veri madenciliði</secenek>
+			<secenek>Hepsi</secenek>
+		</secenekler>
+	</soru>
+
+	<soru>
+		<sorumetni>Assembly, altdüzey programlama dilidir; iþlemcinin iç yapýsýnýn bilinmesini gerektirir. Ýþlemcinin saklayýcýlarýný, adresleme modlarýný ve saklayýcýlar arasý veri akýþýnýn bilinmesini gerektirir. Aþaðýdakilerden hangisi orta-düzey programlama dilidir?</sorumetni>
+		<secenekler type="radio">
+			<secenek>FORTRAN</secenek>
+			<secenek>Visual Basic</secenek>
+			<secenek>Pascal</secenek>
+			<secenek>HTML</secenek>
+			<secenek dogru="true">Hiçbiri</secenek>
+		</secenekler>
+	</soru>
+
+	<soru>
+		<sorumetni>Birçok problem doðasý gereði bölünmeye çok yatkýndýr; dolayýsýyla böylesi problemlerin çözümü böl ve yönet yaklaþýmýna çok uygun düþer. Aþaðýdaki uygulamalarýn hangisi böl ve yönet için uygun deðildir?</sorumetni>
+		<secenekler type="radio">
+			<secenek>Sýralama</secenek>
+			<secenek>Arama</secenek>
+			<secenek>Aðaç uygulamasý</secenek>
+			<secenek dogru="true">Baðlantýlý liste</secenek>
+			<secenek>Hiçbiri</secenek>
+		</secenekler>
+	</soru>
+
+	<soru>
+		<sorumetni>Aþaðýdakilerden hangisi að protokol kümesi deðildir?</sorumetni>
+		<secenekler type="radio">
+			<secenek>TCP/IP</secenek>
+			<secenek>NETBUI</secenek>
+			<secenek>NETWARE</secenek>
+			<secenek dogru="true">Orange Talk</secenek>
+			<secenek>Hiçbiri</secenek>
+		</secenekler>
+	</soru>
+
+	<soru>
+		<sorumetni>Ayný iþi yapan iki programýn veya yazýlýmýn evrensel anlamda örnek veriler üzerinde çalýþtýrýlarak baþarýmlarýnýn karþýlaþtýrýlmasý ne olarak adlandýrýlýr?</sorumetni>
+		<secenekler type="radio">
+			<secenek dogru="true">Kýyaslama</secenek>
+			<secenek>Yarýþtýrma</secenek>
+			<secenek>Ölçme</secenek>
+			<secenek>Deneme</secenek>
+			<secenek>Uygulama</secenek>
+		</secenekler>
+	</soru>
+	
+</quiz>
